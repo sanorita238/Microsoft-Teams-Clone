@@ -11,9 +11,6 @@ window.addEventListener("load", () => {
     navItem.setAttribute("hidden", true);
     userBar.style.color = "white";
     document.body.style.backgroundColor = "rgb(82, 82, 197)";
-    document
-    .querySelector("#newroom-create")
-    .attributes.removeNamedItem("hidden");
   }
   //If userName is not there 
   else if (!userName) {
@@ -258,7 +255,6 @@ window.addEventListener("load", () => {
 
     //Sharescreen
     function shareScreen() {
-     
       helps.shareScreen()
         .then((stream) => {
           helps.toggleShareIcons(true);
@@ -285,7 +281,6 @@ window.addEventListener("load", () => {
 
       //Function to stop screen sharing
     function stopSharingScreen() {
-        
       //Enable video toggle button
       helps.toggleVideoBtnDisabled(false);
 
@@ -342,7 +337,7 @@ window.addEventListener("load", () => {
     }
     //Start recording
     function startRecording(stream) {
-      
+     
       mediaRecorder = new MediaRecorder(stream, {
         mimeType: "video/webm;codecs=vp9",
       });
@@ -355,7 +350,7 @@ window.addEventListener("load", () => {
       };
 
       mediaRecorder.onstop = function () {
-         
+      
         toggleRecordingIcons(false);
         //Save this recording
         helps.saveRecordedStream(recordedStream, userName);
@@ -439,11 +434,8 @@ window.addEventListener("load", () => {
         screen.getVideoTracks().length &&
         screen.getVideoTracks()[0].readyState != "ended"
       ) {
-        
         stopSharingScreen();
-      } 
-      else 
-      {
+      } else {
         shareScreen();
       }
     });
