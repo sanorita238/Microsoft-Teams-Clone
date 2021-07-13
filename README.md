@@ -14,7 +14,7 @@ able to connect with each other to have a video conversation.
 
  ## Online Demo
 Follow the below steps:-
--	```Open``` [https://microsoftteamsclone2021.herokuapp.com](https://microsoftteamsclone2021.herokuapp.com)
+-	```Open``` [https://microsoftteamsclonesanorita.herokuapp.com/](https://microsoftteamsclonesanorita.herokuapp.com/)
 -	```Sign in``` using your google account.
 -	Enter the details in ```create newroom``` or ```join room by invite``` and enter room.
 -	```Allow``` access to use microphone and camera.
@@ -46,7 +46,7 @@ nodemon app.js
 - Open http://localhost:3000 in browser. 
 
 ## Features
-
+- Desktop and mobile compatible.
 -	Multipeer connection: the application can have unlimited number of conference rooms and is able to connect more than 2 users at the 
  	same time.
 -	Google authentication: user has to ```sign in``` by their google account to access the call. 
