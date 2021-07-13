@@ -98,7 +98,7 @@ export default {
                     url: ["stun:stun.l.google.com:19302"]
                 },
                 {
-                    username: " sanorita.student.civ19@itbhu.ac.in",
+                    username: "singhsanorita05@gmail.com",
                     credential: "$@no@0112",
                     url: [
                         "turn:numb.viagenie.ca"
