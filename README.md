@@ -59,7 +59,7 @@ nodemon app.js
 -	Recording option: provides 3 options, ```record audio```, ```record screen``` and ```close recording```. To start recording (audio or screen), select 
   that option and the recording starts, to stop the recording click again record button, the recording stops and the recorded file is 
   downloaded on our device.
--	Chat option: to ```chat``` with other participants,user can type your message and see others too with their username and timing. Users are notiied if any participant drop a message in chat box.
+-	Chat option: to ```chat``` with other participants,user can type your message and see others too with their username and timing. Users are notified if any participant drop a message in chat box.
 -	Mute mic: to mute your own mic select ```mute mic```.
 - Hide video: to ```hide video``` your own video, select this option.
 -	Full screen mode and mute mode: ```full screen``` and ```mute other participant``` option is available on participant’s video.
