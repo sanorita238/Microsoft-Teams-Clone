@@ -1,0 +1,41 @@
+
+body{
+    background-color: rgb(82, 82, 197);
+}
+
+.container-fluid{
+    color: white;  
+}
+.detailshead{
+    margin-left: 55px;
+}
+.startcreate{
+    margin-left: 50px;
+}
+#enter-room{
+   
+    background-color: rgb(82, 82, 197);
+    color: white;
+    font-weight: 600;
+    border: 2px solid white; 
+}
+
+#joinroom{
+   
+    background-color: rgb(82, 82, 197);
+    color: white;
+    font-weight: 600;
+    border: 2px solid white; 
+    width: 100%;
+}
+#joinroom a{
+    text-decoration: none;
+    color: white;
+    
+}
+.signout{
+    float: right;
+    margin-top: 5px;
+    margin-right: 10px;
+    color: white;
+}
