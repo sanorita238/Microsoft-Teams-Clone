@@ -10,7 +10,6 @@ able to connect with each other to have a video conversation.
 
 ![frontpage](https://user-images.githubusercontent.com/60384181/125184342-7727a700-e23a-11eb-8b04-2f5c7c59c4cf.png) 
 
-## Demo
 
  ## Online Demo
 Follow the below steps:-
