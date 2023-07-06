@@ -6,9 +6,9 @@ The Engagement and Mentorship Program to build a Microsoft Teams clone with Aceh
 The aim of the project is to build a Microsoft Teams clone with at least one mandatory functionality - a minimum of two participants should be 
 able to connect with each other to have a video conversation.
 
-### https://microsoftteamsclonesanorita.herokuapp.com/
 
-![frontpage](https://user-images.githubusercontent.com/60384181/125184342-7727a700-e23a-11eb-8b04-2f5c7c59c4cf.png)
+
+![frontpage](https://user-images.githubusercontent.com/60384181/125184342-7727a700-e23a-11eb-8b04-2f5c7c59c4cf.png) 
 
 ## Demo
 
